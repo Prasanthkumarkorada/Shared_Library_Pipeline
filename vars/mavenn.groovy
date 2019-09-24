@@ -1,4 +1,4 @@
 def call()
 {
-  mvn clean
+  mvn clean install
 }
