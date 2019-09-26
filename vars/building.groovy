@@ -1,9 +1,9 @@
-/*def call()
+def call()
 {
   sh 'mvn clean install'
-} */
+} 
 
-#!/usr/bin/env groovy
+/* #!/usr/bin/env groovy
 /*import com.bt.java.BuildConfig */
 def call(def body = [:]) 
 {
@@ -24,4 +24,4 @@ def call(def body = [:])
             }
         }
     }
-}
+} */
